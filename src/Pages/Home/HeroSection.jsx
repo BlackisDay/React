@@ -10,8 +10,8 @@ export default function HeroSection() {
             Developer
           </h1>
           <p className="hero--section-description">
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-            <br /> Dolorum, quas. Amet soluta assumenda cum?
+           Future website
+            <br /> Under Construction
           </p>
         </div>
         <button className="btn btn-primary">Get In Touch</button>

@@ -9,15 +9,12 @@ export default function AboutMe() {
           <p className="section--title">About</p>
           <h1 className="skills-section--heading">About Me</h1>
           <p className="hero--section-description">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem
-            officiis sit debitis omnis harum sed veniam quasi dicta accusamus
-            recusandae? Voluptatem, reprehenderit alias? Eligendi aperiam
-            tempora numquam sint odit optio.
+            My name is Victor Hernandez, I am a Male,Autistic,<span>Full Stack Developer.</span>
           </p>
           <p className="hero--section-description">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem
-            officiis sit debitis omnis harum sed veniam quasi dicta accusamus
-            recusandae?
+            Throughout my life I was told that I was an ambitious person. That I had a great passion for technology.
+            I enjoyed learning about new technologies. I also enjoyed working in teams. I ended up starting from scratch working as a team member in restaurants, to leading a team.
+            Now I want to use the knowledge,skills, and bring them into the tech industry.
           </p>
         </div>
       </div>
